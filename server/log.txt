@@ -17,3 +17,14 @@
 1758566834738: / New Request Received
 1758566835796: /coming-soon New Request Received
 1758566837668: /contact New Request Received
+1758605145690: / New Request Received
+1758605145695: /_next/static/chunks/app-pages-internals.js New Request Received
+1758605145695: /_next/static/chunks/app/layout.js New Request Received
+1758605145695: /_next/static/chunks/app/page.js New Request Received
+1758605145696: /site.webmanifest New Request Received
+1758605159808: /about New Request Received
+1758640370684: GET / New Request Received
+1758640370692: GET /_next/static/chunks/app-pages-internals.js New Request Received
+1758640370692: GET /_next/static/chunks/app/layout.js New Request Received
+1758640370693: GET /_next/static/chunks/app/page.js New Request Received
+1758640370696: GET /site.webmanifest New Request Received
